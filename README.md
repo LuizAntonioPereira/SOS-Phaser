@@ -1,2 +1,3 @@
-# SOS-Phaser
-Phaser Javascript Sos Papai Noel
+# Phaser Javascript SOS Papai Noel
+
+* Jogo feito em Phaserjs
